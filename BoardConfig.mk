@@ -10,4 +10,4 @@ TARGET_KERNEL_VARIANT_CONFIG := aml_tab_variant_defconfig
 ## Wi-Fi
 WIFI_HIDL_FEATURE_DUAL_INTERFACE := true
 
-include device/radxa/radxa0/BoardConfig.mk
+include device/radxa/radxa02/BoardConfig.mk

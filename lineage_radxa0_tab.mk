@@ -15,14 +15,14 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := Radxa
-PRODUCT_DEVICE := radxa0_tab
+PRODUCT_DEVICE := radxa02_tab
 PRODUCT_MANUFACTURER := radxa
 PRODUCT_MODEL := Radxa Zero
-PRODUCT_NAME := lineage_radxa0_tab
+PRODUCT_NAME := lineage_radxa02_tab
 
 PRODUCT_GMS_CLIENTID_BASE := android-droid-tv
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="adt3-user 13 TTT1.230205.001 9565391 release-keys" \
     BuildFingerprint=ADT-3/adt3/adt3:13/TTT1.230205.001/9565391:user/release-keys \
-    SystemName=radxa0
+    SystemName=radxa02
