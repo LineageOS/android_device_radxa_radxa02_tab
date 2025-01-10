@@ -17,7 +17,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := Radxa
 PRODUCT_DEVICE := radxa02_tab
 PRODUCT_MANUFACTURER := radxa
-PRODUCT_MODEL := Radxa Zero
+PRODUCT_MODEL := Radxa Zero 2
 PRODUCT_NAME := lineage_radxa02_tab
 
 PRODUCT_GMS_CLIENTID_BASE := android-droid-tv
